@@ -51,7 +51,7 @@ body{
 
 .soyh1{
     color: #850007;
-    font-size: 100px;
+    font-size: 60px;
     font-family: Arial, Helvetica, sans-serif;
     
 }
@@ -136,28 +136,28 @@ body{
 }
 .mision{
      color: black;
-     font-size: 60px;
+     font-size: 25px;
 }
 
 .mision2{
     color: black;
-    font-size: 100px;
+    font-size: 40px;
     font-family: serif;
 }
 
 .valores{
     color: black;
-    font-size: 100px;
+    font-size: 40px;
     font-family: serif;
 }
 
 .valores2{
     color: black;
-    font-size: 60px;
+    font-size: 25px;
 }
 
 .title{
-    font-size: 150px;
+    font-size: 60px;
     font-family: serif;
     color: black;
     margin: auto;
@@ -165,39 +165,39 @@ body{
 }
 
 .telefono{
-    font-size: 60px;
+    font-size: 40px;
     font-family: sans-serif;
     color: black;
 
 }
 
 .correo{
-    font-size: 60px;
+    font-size: 40px;
     font-family: sans-serif;
     color: black;
 }
 
 .direccion{
-    font-size: 60px;
+    font-size: 40px;
     font-family: sans-serif;
     color: black;
 }
 
 
 .aniver{
-    font-size: 40px;
+    font-size: 30px;
     font-family: serif;
    
 }
 
 .gradua{
-    font-size: 40px;
+    font-size: 30px;
     font-family: serif;
     background-color: #0B6F00;
 }
 
 .eventos{
-    font-size: 40px;
+    font-size: 30px;
     font-family: sans-serif;
     background-color: #0B6F00;
 }
@@ -214,7 +214,7 @@ body{
 
     .container-faq{
         box-shadow: 0 0 15px -1px  rgba(0,0,0,.1);;
-        padding: 30px;
+        padding: 25px;
     }
 
     .container-faq .title-faq{
