@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Hoja de estilo interna</title>
+
+	<style type="text/css">
+	body {
+		padding-left: 20em;
+		font-family: Georgia, "Times New Roman", serif;
+		color: red;
+		background-color: #d8da3d;
+	}
+
+	h1 {
+		font-family: Helvetica. Geneva, Arial, sans-serif;
+	}
+</style>
+</head>
+
+<body>
+	<h1>Aquí se aplicará el estilo de letra para el Título</h1>
+
+	<h2>Esto no tiene ningún estilo en h1</h2>
+	<p>
+	<h1>Esto no tiene estilo en h1</h1>
+
+</body>
+</html>
